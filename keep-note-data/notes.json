@@ -1,0 +1,52 @@
+{
+  "notes": [
+    {
+      "title": "Amazon Prime",
+      "content": "Click on the links given below to know more about these Angular Material components:",
+      "id": "49FDyd7",
+      "reminderDate": "2023-06-09",
+      "category": "Office",
+      "priority": "Critical"
+    },
+    {
+      "id": "333",
+      "title": "Netflix",
+      "content": "Extraction 2 ",
+      "reminderDate": "2023-06-09",
+      "category": "Office",
+      "priority": "Critical"
+    },
+    {
+      "id": "334",
+      "title": "Netflix ",
+      "content": "Narcos - the Drug mafia",
+      "reminderDate": "2023-06-11",
+      "category": "Entertainment",
+      "priority": "Critical"
+    },
+    {
+      "id": "335",
+      "title": "Netflix ",
+      "content": "Money Heist ",
+      "reminderDate": "2023-06-10",
+      "category": "Entertainment",
+      "priority": "Critical"
+    },
+    {
+      "id": "222",
+      "title": "Frontend Developer Program by StackRoute NIIT",
+      "content": "This program builds the knowledge and skills required to perform the tasks of an entry-level front-end developer.",
+      "reminderDate": "2023-06-10",
+      "category": "Course",
+      "priority": "Medium"
+    },
+    {
+      "id": "3334",
+      "title": "Digital Marketing",
+      "content": "Digital Marketing by NIIT Digital.",
+      "reminderDate": "2023-06-21T20:22",
+      "category": "Education",
+      "priority": "Low"
+    }
+  ]
+}
